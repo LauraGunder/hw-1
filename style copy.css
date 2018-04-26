@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css?family=Lora');
+
+
+div{
+
+	font-family: "Lora";
+}
+
+ 
+h1{
+	color: #4a4e69;
+	font-family: "Lora";
+	text-align: center;   
+
+}
+
+img{
+
+	width: 700px;
+
+	height: 500px;
+
+	display: block; 
+
+	margin: 0 auto; 
+
+
+}
+
+
+
+a{
+	display: block;
+	padding: 30px;
+}
+p {
+	color: #4a4e69;
+	font-family: "Lora";
+}
+
+h2{
+
+	color: #37474F;
+
+	font-family:"Lora"; 
+}
+
+h3{
+	color: #37474F;
+
+	font-family: "Lora";  
+
+
+}
+
+li{
+
+	color: #263238;
+
+	font-family: "Lora"; 
+
+
+}
+
+li a{
+	color: #263238;
+	font-family: "Lora";
+}
+
+
+ #footer{ 
+
+
+
+
+
+ }
